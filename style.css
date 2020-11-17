@@ -6,7 +6,7 @@ body {
       rgba(122, 122, 116, 0.788),
       rgba(160, 110, 100, 0.61)
     ),
-    url("images/natarajaidol.jpg") no-repeat center center / cover;
+    url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/003/488/original/natarajaidol.jpg?1605285840") no-repeat center center / cover;
 }
 
 h1 {
